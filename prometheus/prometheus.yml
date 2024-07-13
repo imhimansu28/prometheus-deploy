@@ -18,4 +18,4 @@ scrape_configs:
   scheme: http
   static_configs:
   - targets:
-    - promethues.nextro.in:9090
+    - nextro.in:9090
